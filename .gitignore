@@ -1,0 +1,8 @@
+.DS_Store
+
+completions/
+conf.d/
+functions/
+
+config.fish.backup
+fishd.d4619d1abc68
